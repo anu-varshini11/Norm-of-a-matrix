@@ -42,7 +42,7 @@ print(norm_of_matrix)
 ![n1](https://user-images.githubusercontent.com/119875375/214384785-047264e7-6f2d-40f8-ace3-b34c5c982608.png)
 
 ### 2-Norm of a Matrix
-![n2](https://user-images.githubusercontent.com/119875375/214384893-fae89e18-5bce-4983-b71c-9a70842818fa.png)
+![n2](o1.png)
 
 
 ### Infinity Norm of a Matrix
